@@ -5,11 +5,26 @@
 
 <details>
     <summary><h2> Certifications:</h2> </summary>
-      <li><a href="https://www.credly.com/users/salah-elgazzar/badges"> My Certs </a></li>
-      <br><table style="border='none'"><tr  border="none"><td>CompTIA Secure Infrastructure Expert – CSIE </td>
-        <td><img alt="CASP+" src="https://github-production-user-asset-6210df.s3.amazonaws.com/17543129/275748064-09fead2b-708c-4a03-8cac-be08faaf2228.png?username=salahelgazzar&layout=compact"/></li></td></tr></table>
+  <b>
+      <li><a href="https://www.credly.com/users/salah-elgazzar/badges"> My Certs on credly </a></li>
+      <br>
+  <ol>
+  <li>CompTIA Secure Infrastructure Expert – CSIE </li>
+        <img alt="CASP+" align="right" src="https://github-production-user-asset-6210df.s3.amazonaws.com/17543129/275748064-09fead2b-708c-4a03-8cac-be08faaf2228.png?username=salahelgazzar&layout=compact"/>
+  <li>Microsoft Certified Trainer </li>
+  <li>CompTIA CASP+</li>
+  <li>CompTIA PenTest+</li>
+  <li>CompTIA CySA+</li>
+  <li>CompTIA Security+</li>
+  <li>CompTIA Cloud Essentials+</li>
+  <li>CompTIA Linux+</li>
+  <li>CompTIA Network+</li>
+  <li>CompTIA A+</li>
+  <li>CompTIA ITF+</li>
+  <li>Huawei Certified ICT Associate HCIA-Security</li>
+  <li>MCSD: Microsoft .NET -MCPID:5567516</li>
+  <li>MCSA: Office 365 </li></ol></b>
 </details>
-
 <details>
     <summary><h2>📺 Popular YouTube Videos</h2></summary>
   <li> [Fix black screen after Kali/Linux install.](https://youtu.be/XzavKMfo_V0)</li>
